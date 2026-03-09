@@ -45,4 +45,3 @@ if (process.env.NODE_ENV !== 'production') {
 // Export for Vercel serverless
 module.exports = app;
 module.exports.connectDB = connectDB;
-  });
